@@ -26,7 +26,7 @@ def tree_colider(map, move_right, move_down):
 
 
 
-f = open('advent_of_code_2020\day_3\data.txt', 'r')
+f = open('advent_of_code_2020\day_3\tree_map.txt', 'r')
 
 map = f.read().split('\n')
 

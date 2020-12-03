@@ -1,7 +1,7 @@
 
 expenses = []
 
-f = open("advent_of_code_2020\day_1\data.txt", "r")
+f = open("day_1\expense_report.txt", "r")
 
 for line in f:
     expenses.append(int(line.strip())) 
