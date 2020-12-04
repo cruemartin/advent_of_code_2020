@@ -1,6 +1,6 @@
 passwords = []
 
-f = open('advent_of_code_2020\day_2\password_info.txt','r')
+f = open('day_2\password_info.txt','r')
 
 for line in f:
     temp = line.strip().split(" ")
